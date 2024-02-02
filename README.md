@@ -1,4 +1,4 @@
-GigaDevice GD25Q16C 2MB Python memory driver for FT4222 USB to SPI bride. Quad and Dual width demonstrated. Python module ft4222 is used.
+GigaDevice GD25Q16C 2MB Python memory driver for FT4222 USB to SPI bridge. Quad and Dual width demonstrated. Python module ft4222 is used.
 
 ![picture](https://github.com/charkster/GD25Q32C/blob/main/gd25q32c_pin_diagram.png)
 
